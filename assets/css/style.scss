@@ -29,27 +29,27 @@ Version: 1.0
   // Colors ---------------
   --white-color: #fff;
   --dark-white-color: #fff;
-  --black-color: #000;  
+  --black-color: #00443B;  
   --light-black-color: #242627;
-  --title-color: #222222;
-  --dark-title-color: #222222;
+  --title-color: #00443B;
+  --dark-title-color: #00443B;
   --title-color-opc: 34, 34, 34;
   --text-color: #4B4B52;
   --text-color-opc: 75, 75, 82;
   // Theme Color
   --primary-color1: #00E088;
   --primary-color1-opc: 237, 82, 33; 
-  --primary-color2 : #222222;
-  --dark-primary-color2 : #222222;
+  --primary-color2 : #00443B;
+  --dark-primary-color2 : #00443B;
   --primary-color2-opc: 34, 34, 34; 
   --border-color: #eee; 
   --border-color2: #4B4B52; 
 }
 body.dark{
   --white-color: #fff;
-  --dark-white-color: #0B0C0C;
-  --black-color: #000;
-  --black-color2: #1E1F1F;
+  --dark-white-color: #00443B;
+  --black-color: #00443B;
+  --black-color2: #00443B;
   --title-color: #fff;
   --title-color-opc: 255, 255, 255;
   --text-color: #B5B5B5;
@@ -59,7 +59,7 @@ body.dark{
   --primary-color2-opc: 255, 255, 255; 
   --border-color: #5e5a5a6e; 
   --border-color2: #B5B5B5; 
-  background-color: #121212;
+  background-color: #00443B;
 }
 
 /*================================================
